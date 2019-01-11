@@ -1,2 +1,2 @@
 # FoodChoice
-Interface interagissant avec une base de données basées sur l'alimentation
+Preuve de concept d'une interface interagissant avec une base de données basées sur l'alimentation
